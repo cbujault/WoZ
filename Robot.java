@@ -16,6 +16,7 @@ public class Robot
     private String name;
     private int vitesse;
     private CanvasRobot canvasRobot;
+    private String bonjour;
     
     /**
      * Robot's constructor
